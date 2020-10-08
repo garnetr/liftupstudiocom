@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Secret_GoFundME_page12.html",
+    "currentPage": "SecretGoFundMePreview.html",
     "theme": {
       "name": "digitalm4",
       "title": "DigitalM4",
@@ -40,7 +40,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 83,
+    "uniqCompNum": 86,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "google-analytics": "\n<script type=\"text/javascript\">\n!function(){var geq=window.geq=window.geq||[];if(geq.initialize) return;if (geq.invoked){if (window.console && console.error) {console.error(\"GetEmails snippet included twice.\");}return;}geq.invoked = true;geq.methods = [\"page\", \"suppress\", \"trackOrder\"];geq.factory = function(method){return function(){var args = Array.prototype.slice.call(arguments);args.unshift(method);geq.push(args);return geq;};};for (var i = 0; i < geq.methods.length; i++) {var key = geq.methods[i];geq[key] = geq.factory(key);}geq.load = function(key){var script = document.createElement(\"script\");script.type = \"text/javascript\";script.async = true;script.src = \"https://s3-us-west-2.amazonaws.com/storejs/a/\" + key + \"/ge.js\";var first = document.getElementsByTagName(\"script\")[0];first.parentNode.insertBefore(script, first);};geq.SNIPPET_VERSION = \"1.3.9\";\ngeq.load(\"JKRH5X9\");}();\n</script>\n<script>geq.page()</script>\n",
@@ -768,7 +768,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10,
+        "order": 11,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -1608,7 +1608,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2,
+        "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -2448,7 +2448,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11,
+        "order": 12,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -3288,7 +3288,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12,
+        "order": 13,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -4126,7 +4126,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9,
+        "order": 10,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -4966,7 +4966,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8,
+        "order": 9,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -6210,7 +6210,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7,
+        "order": 8,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -6983,7 +6983,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6,
+        "order": 7,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -7823,7 +7823,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5,
+        "order": 6,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -8663,7 +8663,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4,
+        "order": 5,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -9503,7 +9503,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3,
+        "order": 4,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-186-1080x720.jpg"
       },
       "components": [
@@ -10338,9 +10338,9 @@
     },
     "Secret_GoFundME_page12.html": {
       "settings": {
-        "title": "GoFundMe October 2020 Offer",
+        "title": "GoFundMe - Click Thru",
         "order": 1,
-        "meta_descr": "Rough draft of GoFundMe rewards being planned"
+        "meta_descr": "Please click through - Rough draft of GoFundMe rewards being planned"
       },
       "components": [
         {
@@ -10886,6 +10886,559 @@
           "_once": false,
           "_params": {},
           "_anchor": "content01-2a"
+        }
+      ]
+    },
+    "SecretGoFundMePreview.html": {
+      "settings": {
+        "title": "GoFundMe October 2020 Offer",
+        "order": 2,
+        "meta_descr": "Rough draft of GoFundMe rewards being planned"
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            ".dropdown-item::after": {},
+            ".dropdown-menu": {
+              "padding": "12px 0"
+            },
+            ".dropdown-item": {
+              "&:hover, &:focus": {
+                "color": "white",
+                "opacity": "0.75"
+              },
+              "&.display-4": {
+                "font-size": "14px",
+                "line-height": "1"
+              }
+            },
+            ".nav-dropdown .link": {
+              "padding": "40px 24px !important",
+              "font-weight": "600 !important"
+            },
+            ".nav-dropdown .link.dropdown-toggle::after": {
+              "margin-left": "0.5rem",
+              "margin-top": "0.2rem"
+            },
+            ".nav-link": {
+              "position": "relative"
+            },
+            ".container": {
+              "display": "flex",
+              "margin": "auto",
+              "padding-left": "15px",
+              "padding-right": "15px",
+              "justify-content": "center !important"
+            },
+            ".mbr-iconfont": {
+              "color": "@iconsColor",
+              "font-size": "1.5rem",
+              "padding-right": "0.5rem"
+            },
+            ".navbar-nav": {
+              "justify-content": "center",
+              "margin-left": "auto"
+            },
+            ".dropdown-menu, .navbar.opened": {
+              "background": "@ddbg !important"
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".nav-item": {
+              "&:hover": {
+                ".link": {
+                  "opacity": "0.75",
+                  "transition": "all 200ms ease-in-out"
+                }
+              },
+              ".link.display-4": {
+                "font-size": "14px"
+              }
+            },
+            ".dropdown .dropdown-menu .dropdown-item": {
+              "width": "auto",
+              "-webkit-transition": "all 0.25s ease-in-out",
+              "-moz-transition": "all 0.25s ease-in-out",
+              "transition": "all 0.25s ease-in-out",
+              "&::after": {
+                "right": "0.5rem"
+              },
+              ".mbr-iconfont": {
+                "margin-left": "-1.8rem",
+                "padding-right": "1rem",
+                "font-size": "inherit",
+                "&:before": {
+                  "display": "inline-block",
+                  "-webkit-transform": "scale(1, 1)",
+                  "transform": "scale(1, 1)",
+                  "-webkit-transition": "all 0.25s ease-in-out",
+                  "-moz-transition": "all 0.25s ease-in-out",
+                  "transition": "all 0.25s ease-in-out"
+                }
+              }
+            },
+            ".collapsed": {
+              ".dropdown-menu .dropdown-item:before": {
+                "display": "none"
+              },
+              ".dropdown .dropdown-menu .dropdown-item": {
+                "padding": "0.235em 1.5em 0.235em 1.5em !important",
+                "transition": "none",
+                "margin": "0 !important"
+              }
+            },
+            ".navbar": {
+              "min-height": "77px",
+              "transition": "all 0.3s",
+              "background": "@menuBgColor",
+              "& when (@transparent)": {
+                "background": "none"
+              },
+              "&.opened": {
+                "transition": "all 0.3s",
+                "width": "300px",
+                "height": "100%",
+                "padding": "0px 30px 10px 30px",
+                ".container": {
+                  "align-self": "flex-start",
+                  ".navbar-brand": {
+                    "padding": "3rem 0 2rem"
+                  },
+                  "button.navbar-toggler": {
+                    "position": "absolute",
+                    "top": "1.3rem",
+                    "left": "auto",
+                    "right": "-0.5rem",
+                    ".hamburger span": {
+                      "width": "15px",
+                      "height": "3px"
+                    }
+                  },
+                  "ul.navbar-nav": {
+                    "li": {
+                      "margin": "0",
+                      ".link": {
+                        "justify-content": "flex-start"
+                      }
+                    }
+                  },
+                  ".nav-dropdown": {
+                    ".link": {
+                      "padding": "14px 42px 14px 0 !important"
+                    }
+                  },
+                  "margin": "0px"
+                }
+              },
+              ".dropdown-item": {
+                "padding": "12px 40px 12px 24px"
+              },
+              ".navbar-collapse": {
+                "justify-content": "space-between",
+                "z-index": "1",
+                "& when not (@showItems)": {
+                  "display": "none !important"
+                }
+              },
+              "&.collapsed": {
+                ".nav-item .nav-link::before": {
+                  "display": "none"
+                },
+                ".navbar-toggler": {
+                  "-webkit-flex-basis": "auto",
+                  "flex-basis": "auto",
+                  "margin-left": "auto"
+                },
+                "&.opened": {
+                  "position": "fixed",
+                  ".dropdown-menu": {
+                    "top": "0",
+                    "padding-left": "20px",
+                    ".dropdown-item": {
+                      "padding": "14px 45px 14px 0 !important",
+                      "text-align": "left"
+                    }
+                  },
+                  "@media (min-width: 992px)": {
+                    "&:not(.navbar-short) .navbar-collapse when (@showLogo)": {
+                      "max-height": "~\"calc(98.5vh - @{logoSize}rem)\""
+                    }
+                  }
+                },
+                ".dropdown-menu": {
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": "0.5rem",
+                    "margin-top": "0.2rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "55%"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": "0.25rem 1.5rem",
+                  "text-align": "center"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-right": "0",
+                  "padding-top": "0.5rem",
+                  "padding-bottom": "0.5rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".nav-item .nav-link::before": {
+                  "display": "none"
+                },
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  }
+                },
+                ".dropdown-menu": {
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": "0.5rem",
+                    "margin-top": "0.2rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "41%"
+                  },
+                  "padding-left": "20px",
+                  ".dropdown-item": {
+                    "padding": "14px 45px 14px 0 !important",
+                    "text-align": "left"
+                  }
+                },
+                ".navbar-logo": {
+                  "img": {
+                    "height": "3.8rem !important"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".navbar-brand": {
+                  "margin-right": "auto",
+                  "-webkit-flex-shrink": "initial",
+                  "flex-shrink": "initial",
+                  "-webkit-flex-basis": "auto",
+                  "flex-basis": "auto",
+                  "word-break": "break-word",
+                  "padding-right": "2rem"
+                },
+                ".navbar-toggler": {
+                  "-webkit-flex-basis": "auto",
+                  "flex-basis": "auto",
+                  "margin-left": "auto"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-top": "0.5rem",
+                  "padding-bottom": "0.5rem"
+                }
+              },
+              "&.navbar-short": {
+                "background": "@menuBgColor !important",
+                "min-height": "60px",
+                ".navbar-logo": {
+                  "img": {
+                    "height": "3rem !important"
+                  }
+                },
+                ".navbar-brand": {
+                  "padding": "0"
+                }
+              }
+            },
+            ".navbar-brand": {
+              "-webkit-flex-shrink": "0",
+              "flex-shrink": "0",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "margin-right": "0",
+              "padding": "0",
+              "transition": "all 0.3s",
+              "word-break": "break-word",
+              "z-index": "1",
+              ".navbar-caption": {
+                "line-height": "inherit !important"
+              },
+              ".navbar-logo a": {
+                "outline": "none"
+              }
+            },
+            ".dropdown-item.active, .dropdown-item:active": {
+              "background-color": "transparent"
+            },
+            ".navbar-expand-lg .navbar-nav .nav-link": {
+              "padding": "0"
+            },
+            ".nav-dropdown .link.dropdown-toggle": {
+              "margin-right": "1.667em",
+              "&[aria-expanded=\"true\"]": {
+                "margin-right": "0",
+                "padding": "0.667em 1.667em"
+              }
+            },
+            ".navbar.navbar-expand-lg .dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                ".dropdown-submenu": {
+                  "margin": "0",
+                  "left": "100%"
+                }
+              }
+            },
+            ".navbar .dropdown.open > .dropdown-menu": {
+              "display": "block"
+            },
+            "ul.navbar-nav": {
+              "-webkit-flex-wrap": "wrap",
+              "flex-wrap": "wrap"
+            },
+            ".navbar-buttons": {
+              "text-align": "center"
+            },
+            "button.navbar-toggler": {
+              "outline": "none",
+              "width": "31px",
+              "height": "20px",
+              "cursor": "pointer",
+              "transition": "all 0.2s",
+              "position": "relative",
+              "-webkit-align-self": "center",
+              "align-self": "center",
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all 0.2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all 0.15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all 0.15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all 0.2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all 0.2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all 0.25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all 0.25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all 0.2s"
+              }
+            },
+            ".navbar-dropdown": {
+              "& when (@sticky)": {
+                "position": "fixed"
+              }
+            },
+            "a.nav-link": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "-webkit-justify-content": "center",
+              "justify-content": "center"
+            },
+            ".icons-menu": {
+              "-webkit-flex-wrap": "nowrap",
+              "flex-wrap": "nowrap",
+              "display": "flex",
+              "-webkit-justify-content": "center",
+              "justify-content": "center",
+              "padding-left": "1rem",
+              "padding-right": "1rem",
+              "padding-top": "0.3rem",
+              "text-align": "center",
+              "span": {
+                "font-size": "22px",
+                "color": "@iconsColor",
+                "transition": "all 200ms ease-in-out",
+                "&:hover": {
+                  "opacity": "0.7"
+                }
+              }
+            },
+            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
+              ".navbar": {
+                "height": "77px",
+                "&.opened": {
+                  "height": "auto"
+                }
+              },
+              ".nav-item .nav-link:hover::before": {
+                "width": "175%",
+                "max-width": "calc(100% ~\"+\" 2rem)",
+                "left": "-1rem"
+              }
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu1\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Show / Hide</header>\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\">\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Menu Items\" name=\"showItems\" checked>\n        <input type=\"checkbox\" title=\"Icons\" name=\"showIcons\" checked condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Button(s)\" name=\"showButtons\" condition=\"showItems\">\n        <hr>\n\n        <select title=\"Icons Count\" name=\"iconsAmount\" condition=\"showIcons && showItems\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#ffffff\" condition=\"showIcons && showItems\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n\n\n        <input type=\"color\" title=\"Drop Down BG\" name=\"ddbg\" value=\"#1e2228\">\n\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#242930\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n\n    <nav class=\"navbar navbar-dropdown\" mbr-class=\"{'navbar-fixed-top':sticky, 'navbar-expand-lg':!collapsed, 'collapsed':collapsed}\">\n\n        <div class=\"container\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://mobirise.com\">\n                        <img src=\"../_images/logo2.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-7\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Text\">LiftUpStudio</a></span>\n            </div>\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n                <ul mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                        <a class=\"nav-link link text-white\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                            HOME</a>\n                    </li>\n                    \n                    \n                    <li class=\"nav-item dropdown\"><a class=\"nav-link link text-white dropdown-toggle\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a class=\"text-white dropdown-item dropdown-toggle\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Selling Your Real Estate</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"text-white dropdown-item\" href=\"Article-How-To-Write-Great-Real-Estate-Ads-That-Sell.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">How to Write Great Real Estate Ads That Sell</a><a class=\"text-white dropdown-item\" href=\"Article-Selling-Your-Real-Estate-On-Facebook.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">How To Sell Your Property On Facebook</a><a class=\"text-white dropdown-item\" href=\"Article-Old-School-Ways-To-Sell-Your-Property.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Old School Ways To Sell Your Property</a><a class=\"text-white dropdown-item\" href=\"Article-How-To-Use-Bandit-Signs-To-Sell-Real-Estate.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">How To Use Bandit Signs To Sell Real Estate</a><a class=\"text-white dropdown-item\" href=\"Article-Free-Internet-Marketing-For-Real-Estate.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Free Internet Marketing For Real Estate</a><a class=\"text-white dropdown-item\" href=\"Article-Paid-Internet-Marketing-Ideas-For-Real-Estate.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Paid Internet Marketing Ideas For Real Estate</a><a class=\"text-white dropdown-item\" href=\"Article-Ways-To-Use-Networking-To-Sell-Real-Estate.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Ways To Use Networking To Sell Real Estate</a><a class=\"text-white dropdown-item\" href=\"Article-Creative-Real-Estate-Marketing-Ideas.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Creative Real Estate Marketing Ideas</a></div></div></div></li>\n                    <li class=\"nav-item dropdown\"><a class=\"nav-link link text-white dropdown-toggle\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a class=\"text-white dropdown-item dropdown-toggle\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Real Estate</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"text-white dropdown-item\" href=\"https://liftupstudio.com/houseforsaleintheredwoods\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">731 Buckeye, Felton California<br></a></div></div></div>\n                    </li></ul>\n                <div class=\"icons-menu\" mbr-if=\"showIcons\">\n                    <a href=\"https://mobirise.com\" target=\"_blank\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont mbri-search\"></span>\n                    </a>\n                    <a href=\"https://mobirise.com\" target=\"_blank\" mbr-if=\"iconsAmount > 1\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont mbri-info\"></span>\n                    </a>\n                    <a href=\"https://mobirise.com\" target=\"_blank\" mbr-if=\"iconsAmount > 2\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-vimeo socicon\"></span>\n                    </a>\n                </div>\n                <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">\n                        Sign up</a></div>\n            </div>\n        </div>\n    </nav>\n\n</section>",
+          "_cid": "scRHP7Id2K",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_anchor": "menu1-2b"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "@media (min-width: 1500px)": {
+              ".container": {
+                "max-width": "1400px"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".copyright": {
+                "margin-bottom": "1rem"
+              }
+            },
+            "p": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "footer02",
+          "_customHTML": "<section group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#102f62\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"row mbr-white\">\n            <div class=\"copyright align-center col-md-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\">\n                    © 2020 LiftUpStudio. All rights reserved.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "digitalm4",
+          "_cid": "scRHP8oPJe",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {},
+          "_anchor": "footer02-2c"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = \"color\")": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = \"image\")": {
+              "background-image": "url(@bg-value)"
+            },
+            ".badge": {
+              "display": "inline-block",
+              "border-radius": "10rem",
+              "padding": "8px 14px 6px 14px",
+              "color": "@primaryColor",
+              "background-color": "fade(@badgeBg, 15%)",
+              "margin-bottom": "16px",
+              "&.display-4": {
+                "font-size": "11px",
+                "line-height": "1.81",
+                "letter-spacing": "0.5px"
+              }
+            },
+            ".main-title": {
+              "color": "#404040",
+              "margin-bottom": "26px",
+              "&.display-2": {
+                "line-height": "1.375"
+              }
+            },
+            ".mbr-section-subtitle": {
+              "color": "#5f86be",
+              "font-weight": "600",
+              "margin-bottom": "21px"
+            },
+            ".mbr-text": {
+              "color": "#606060",
+              "&.display-4": {
+                "line-height": "1.75"
+              }
+            },
+            ".mbr-section-btn": {
+              "margin-top": "24px",
+              ".btn": {
+                "margin-left": "0",
+                "&.display-4": {
+                  "font-size": "13px",
+                  "line-height": "1"
+                },
+                "padding": "18px 26px",
+                "&:hover": {
+                  "box-shadow": "0 0 0 5px rgba(60, 113, 211, 0.2) !important",
+                  "-webkit-box-shadow": "0 0 0 5px rgba(60, 113, 211, 0.2) !important"
+                }
+              }
+            }
+          },
+          "_name": "content01",
+          "_customHTML": "<section class=\"content01\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"mobirise-icons2\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <header>Show / Hide</header>\n        <input type=\"checkbox\" title=\"Badge\" name=\"showBadge\">\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Button\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Cards Count\" name=\"cardsCount\" min=\"1\" max=\"4\" step=\"1\" value=\"4\" condition=\"showCards\">\n        <input type=\"color\" title=\"Badge Bg Color\" name=\"badgeBg\" value=\"#848abd\" selected condition=\"showBadge\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#f9fafb\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"card col-lg-12 text-left\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-box align-left\">\n                        <div class=\"badge_wrap align-left\">\n                            <h4 class=\"badge mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".badge, .badge_wrap, .mbr-section-btn\" mbr-if=\"showBadge\">\n                                HOW WE'RE DIFFERENT\n                            </h4>\n                        </div>\n                        <h3 class=\"mbr-fonts-style mbr-section-subtitle align-left mbr-light pt-3\" mbr-theme-style=\"display-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle, .mbr-section-btn\">\n                            Rewards Based GoFundMe Planning</h3>\n                        <h3 class=\"main-title align-left mbr-semibold mbr-black mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".main-title, .mbr-section-btn\">\n                            This is a rough draft of rewards being planned for my combined October 2020 cross country fall colors, and wikimedia historical site photo contest, trip. Goal is to collect some reasonable funding and leave on Saturday. <br><br>Big thanks to everyone who has made a pledge and commented on the rewards!<br><br>The goal: Use GoFundMe to fund a month long photo taking tour of the United States focused first on the fall colors of the New England states, and then coming westward across the United States focusing on fall colors in the northern states, and historical monuments to photo and enter in the wikimedia historical site photo contest running this month of October 2020. If I win any prize in this contest, there are ten of them, my photo will be submitted as a finalist to an international competition.<br><br>I am also offering some consulting opportunities to help companies run a promotion related to this trip. Also opportunities to host an exhibition of these one of a kind photos. Please contact me for details.<br><br>Thank you for helping me look it over.&nbsp;<br><br>Please let me know you thoughts via email (<a href=\"mailto:thegarnet@gmail.com\">thegarnet@gmail.com</a>) or more immediately, via text (<a href=\"sms:+1+415+902-3258\">415-902-3258</a>) or <a href=\"tel:+1-415-902-3258\">voice</a>. Thanks!!!!!!</h3>\n                        <p class=\"mbr-text mbr-regular mbr-black mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Documentation:&nbsp;<br>* Page from gofundme about offering rewards:&nbsp;<a href=\"https://support.gofundme.com/hc/en-us/articles/360043513832-Offering-Rewards-on-your-GoFundMe\">https://support.gofundme.com/hc/en-us/articles/360043513832-Offering-Rewards-on-your-GoFundMe</a><br>* GoFundMe guarantee policy:&nbsp;<a href=\"https://www.gofundme.com/c/safety/gofundme-guarantee\">https://www.gofundme.com/c/safety/gofundme-guarantee</a><br>* Wikimedia historical place photo contest during the month of October 2020:&nbsp;<a href=\"https://commons.m.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2020_in_the_United_States\">https://commons.m.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2020_in_the_United_States</a><br><br><br><br>Rewards offered: &nbsp;2020-10-8 14:45 AM version<br><br><br><b>Photo Tour Trip Planning</b><br><br>Note that these routes will change along the way, especially if sponsors want to add specific locations to the itinerary.<br><br>Segment 1: Goal: Get to New England States ASAP!<br>* First priority is to get to the New England states, Houlton Maine. Will be trying to minimize time in New York because of COVID quarantine rules, but no way to avoid going through New York to get to Maine, but plan to first go to Philadelphia, then shoot up the coast through Houlton, and finally St. Agatha, Maine, the northernmost lake in Maine.  3600 miles<br>* Then back down the east coast, Salisbury Maryland, Baltimore, Raleigh, Nashville, and visiting boyhood locations in Cincinnati, including the lovely Eden Park. - 5800 miles total. <br>* <a href=\"https://www.google.com/maps/dir/San+Francisco,+CA/Philadelphia,+PA/Houlton,+Maine/St+Agatha,+ME/Salisbury,+MD/Baltimore,+MD/Raleigh,+NC/Charlotte,+NC/Nashville,+TN/Cincinnati,+OH/@39.8620509,-113.0479445,4z/data=!3m1!4b1!4m62!4m61!1m5!1m1!1s0x80859a6d00690021:0x4a501367f076adff!2m2!1d-122.4194155!2d37.7749295!1m5!1m1!1s0x89c6b7d8d4b54beb:0x89f514d88c3e58c1!2m2!1d-75.1652215!2d39.9525839!1m5!1m1!1s0x4ca4c1923717c66f:0xc021d6deb8bf68cf!2m2!1d-67.8402316!2d46.1261806!1m5!1m1!1s0x4cbcfe5400d63b8b:0x305dabf69291457e!2m2!1d-68.3136517!2d47.2430959!1m5!1m1!1s0x89b903ba56929e61:0xcc2a83b15b6a3b93!2m2!1d-75.5993692!2d38.3606736!1m5!1m1!1s0x89c803aed6f483b7:0x44896a84223e758!2m2!1d-76.6121893!2d39.2903848!1m5!1m1!1s0x89ac5a2f9f51e0f7:0x6790b6528a11f0ad!2m2!1d-78.6381787!2d35.7795897!1m5!1m1!1s0x88541fc4fc381a81:0x884650e6bf43d164!2m2!1d-80.8431267!2d35.2270869!1m5!1m1!1s0x8864ec3213eb903d:0x7d3fb9d0a1e9daa0!2m2!1d-86.7816016!2d36.1626638!1m5!1m1!1s0x884051b1de3821f9:0x69fb7e8be4c09317!2m2!1d-84.5120196!2d39.1031182!3e0\">Google map of Segment 1</a><br><br><b>Many of the expenses associated with this trip:</b><br>* I would happily sleep in my car, but I am never as productive as when I get a real night's sleep. Time is of the essence with the fall colors, they do not last for long, so I need to do a motel room each night of this trip to maximize time available for photography, and use the evenings effectively to communicate about the trip to all my sponsors. Hotel rooms: 20 days at $100/day - $2000<br>* Daily gas at 16mpg. Am figuring at $2.50 a gallon, just the first segment will be about $900 in gasoline, and maybe an equivalent amount to complete the round trip.  $1800 gasoline.<br>* May need 2-3 oil changes along the way, $100 total.<br>* Food along the way, $20 per day, $400 total<br>* Monthly fees for the sponsor membership site, web server for website, photos, videos, etc., Adobe editing software, etc.  $250 per month<br>* AAA membership  $100<br>* My 2010 Grand Caravan SXT with 330K miles on it seems in good shape, but could their be car repairs along the way?<br>* <b>Total is close to $5000</b><br><br>I can fund this trip by stopping along the way to sharpen scissors all across the country. I am willing to do this. But it will greatly impact on the time I could be spending doing photography of the fall colors, looking for and driving to monuments, creating great aerial photography for the Wikimedia contest. <br><br>So your sponsorship is critical for me to be able to focus on photography during this trip.  <br><br>And I have a whole list of rewards for you for your help!   So the more you can help me focus, the more choices there will be for you to choose from for your rewards!<br><br><br><br><br><b>Rewards offered:</b><br><br>Special this week for everyone who joins at the $10 level, or above: A friend you nominate will also receive a free $10 sponsor level membership in the sponsors only forum!   All new members in the sponsors only forum will also receive social media shoutout thank you for helping make this trip possible!<br><br>Sponsorship upgrades: If any time you want to upgrade your sponsorship, just pay the difference to receive the benefits of the new level. If you would like to keep the benefits of your current level, and add on the new benefits, your previous sponsorship counts 50% towards the upgrade price.<br><br><b><br></b><br><b>Reward Levels<br></b><br><br><b>$1, $2, $3, $5 - Social Level</b> - You’ll have my undying love and admiration, and a shout out on social media for being a champ!  You will also receive a special surprise!<br><br><br><b>$10 or more - Sponsor Level</b>&nbsp;<br><br>Membership in the sponsors only forum; regular updates about the trip; enjoy a growing library of pictures and video from this trip. The sponsors forum is an area where you get to see the sponsors library of my photos and videos from the trip, and news about where I am headed, and a chance to participate and suggest locations along the way.<br><br><br><b>$20 - Postcard sponsor</b>&nbsp;<br><br>Membership in the sponsor forum; and a postcard sent to you about a location on the trip, your choice from one of the photos in the sponsors library. If possible, I will send the postcard from the state of that location, so the postmark will reflect that state. This is a great momento of your use of crowdfunding to make this trip possible!<br><br><br><b>$25 - Surprising Prints Sponsor</b><br><b><br></b>Membership in the sponsor forum; 2 quantity of 11x17 or 8.5x11 proofs from during the trip, or proofs of postcards, sent to you, my choice of photos from a variety of locations. Thank you for helping me keep wasted prints to a minimum during the trip, and being willing to enjoy them for yourself. Subject to availability, if there are not enough extra prints, I will give you a choice of two 8.5x11 pictures and a postcard of your choice.<br><br><br><b>$30 - Postmark collector </b><br><br>Membership in the sponsor forum; 4 postcards sent to you, of your choice of photos from different locations on the trip. Add on additional postcards (collect one from every state!) for just $10 each. Collect a postcard from all the states on this trip!<br><br><br><b>$50 - Patron Level </b><br><br>Membership in the sponsors forum; select an 11x17 large format print from the photos in the sponsors library. Printed with Epson Durabright inks, Epson estimates over 80+ year lifetime for this ink. Bonus: Two post cards of locations from the trip.<br><br><br><b>$60 - Postcard Collector</b> <br><br>Membership in the sponsors forum; pack of five unused postcards of a mix and match of photos you select, mailed to you in a padded envelope.<br><br><br><b>$100 - Community Builder</b> <br><br>20 forum sponsor level passes to give away. Please provide their email addresses, and names, in groups of at least five so I can efficiently process the memberships. Includes membership in the sponsors only forum for you too. And a special surprise too: &nbsp;You will also get to choose an 11x17 large format print for yourself, and three postcards mailed to you to help you promote your passes. You can even sell these sponsor level passes, please see how to join the fundraising team below!<br><br><br><b>$120 Photowall sponsor</b> <br><br>Membership in the sponsors forum; 3 photos of your choice, 11x17, create a beautful photo wall, or adorn several rooms of your home and office. Special bonus: Also includes membership in the sponsor forum for two of your friends, and two postcards of locations mailed.<br><br><br><b>$200 - Real Estate Scout </b><br><br>Were you considering buying real estate in a location near where I am traveling? Do you know someone who is considering buying a piece of real estate along my route? For this level, I will do aerial photography of the prospective location for you or your friend, similar to what you see in the top rated real estate layouts. A great way for you to get an independent view of a property and neighborhood. You, and your friend, will also get membership in the sponsor forum. Includes two 11x17 prints of your choice from the trip.<br><br><br><b>$300 - Location Sponsor</b> <br><br>Membership in the sponsor forum; special mention as a location sponsor; receive 7 different 11x17 prints from your location, or other locations, from the trip, your choice. Also includes membership in the sponsor forum for three of your friends.<br><br><br><b>$500 - Copilot Sponsor </b><br><br>Wow! Totally awesome! 30 minutes of aerial photography from the location of your choice along the trip. You will own the video and photos I take for your half hour. (And, I get so into my photo and video assignments, I always over-deliver for my clients, I will include bonus photos and footage for you.) You will be given a full release for the licensing of the pictures and video for your own use, and the material will be delivered to you in drop box within 4 days of the assignment. <br><br><i>Special bonuses:</i> Includes membership in the sponsors forum, 7 different 11x17 prints from your location, or other locations, and four different postcards mailed from the trip. &nbsp;If you allow your photos to be available in the sponsors forum, for members to see and buy copies of the photos, you will receive special mention as the copilot for those pictures in all mentions and use of those pictures during the trip, and on any advertising for future trips. See *Note about location.<br><br>Your flight credit never expires, but it is intended that your credit is used during the course of this trip. If there is no trip in progress, your flight credit is good for locations within a one hour drive of Marin County, California.<br><br><b>$1200 - Fleet Captain</b> <br><br>Includes an hour of photography and video time, with all the benefits of Copilot sponsor. Includes personal consultation with me during your hour via FB messenger video call to discuss shots and positioning during the hour. See *Note about location. Depends on availability of internet. If only cell phone and text messaging pictures available, then that is substituted for FB messenger. Additional passengers on your flight available: Passengers get to participate in the FB messenger call, or text message group, for just $250 each. Your passengers receive Photo Wall Level sponsor membership in the members forum, including three 11x17 print of their choice from the trip, and all the bonuaes of photo wall sponsorship.<br><br>Special bonuses for you: Includes membership in the sponsors forum, 7 different 11x17 prints from your location, or other locations.  If you allow your photos to be available in the sponsors forum, for members to see and buy copies of the photos, you will receive special mention as the copilot for those pictures in all mentions and use of those pictures during the trip, and on any advertising for future trips. See *Note about location.<br><br>Your flight credit never expires, but it is intended that your credit is used during the course of this trip, or a future trip during the next year. If there is no trip in progress, your flight credits are good for locations within a three hour drive of San Francisco.<br><br><b>$2500 - Fleet Executive</b> <br><br>Includes all the benefits of Fleet Captain, includes up to three passengers, and also includes all the benefits of patron level membership in the sponsor forum for your passengers and ten of your friends.<br><br>Special bonus: Three extra 11x17 prints for you and each of your passengers, and 4 post cards for each of you from the trip.<br><br>Your flight credit never expires, but it is intended that your credit is used during the course of this trip, or a future trip during the next year. If there is no trip in progress, your flight credits are good for locations within a three hour drive of San Francisco.<br><br><b>$7,500 - Board member of the trip</b> <br><br>All the benefits and bonsues of Fleet Executive, plus 2 fleet executive sponsorships for those you choose to nominate. (Or keep all three flights for yourself!) Makes an incredible special gift for 2 special people that you know, or a great way to start your own private library of videos and photos from three different locations.. <br><br>Every four new board members of the trip will enable me to launch a new one month trip. If possible, four board members with a similar geographic area interest are chosen to be on the sponsor committe for that trip so we can give priority to coordinating their locations. &nbsp;Board members serve for one year, but your flight credits never expire. However, if there is no trip in progress, your flight credits are good for locations within a three hour drive of San Francisco.<br><br><br><b>$50,000 - Chairman of the trip</b> <br><br>There is only one chairman of the trip position available, and you could be that chairman! Imagine the incredible prestige! &nbsp;You could be the very first chairman of the trip! Feel the intense pleasure of being able to mention at dinner parties that you have your own on-call sUAS pilot and photographer and drone fleet scouring the United States, at your direction, for one of a kind photography and video for your personal private collection! You will be the envy of everyone you meet!<br><br>All the benefits of Fleet Executive, plus 10 fleet executive sponsorships for those you choose to nominate (or be fleet executive of up to eleven of your own flights!) <br><br>This is a total of 11 sessions of drone video at your direction, or the direction of your friends that you include in the flights, every flight includs three passengers who can particupate in the direction of the flight. Makes an incredible special bonus for 10 special people that you know, such as ten worthy employees, or ten top clients. Or keep all the flights for yourself and have me build for you an incredible stock photo and video library of aerial photography from locations that you choose all over the country. <br><br>Only one chairman position avialable, and chairman position is for a term of 3 months, giving you priority determination of where trips are conducted during your term. A Chairman of the Trip sponsorship will enable me to extend the trip for an entire three month term, ensuring you maximal opportunity to get the locations you want. <br><br>While I do have all the drones, printers, and vehicles to complete this trip, sponsorship at this level includes budget for equipment upgrades to the next level for even more spectacular video and photography.&nbsp;<br><br>Flights do not expire, and unused flights may be used after your term expires. If there is no trip in progress, your flight credits are good for locations within a three hour drive of San Francisco.<br><br>Special bonus for the Chairman of the Trip if you accept and fund your position by October 20th, 2020: 10 extra Fleet Executive level flights. That is a total of 21 flights at your personal direction, or the direction of those you choose to give the flights to.<br><br><b><br>Make Some Money As Part Of The Funding Team For This Trip</b><br><br>Want to make some fast cash for your work to support this trip? Let me know you want to join the funding team, and sponsor this trip at the $100 community builder sponsor level. That incliudes 20 no cost sponsor level passes to the sponsors only forum. (You could even sell those passes for a small amount of money each, between $5 or $10, and pocket those sales for yourself!)  I will award you with 10% commission on all the sponsorship that you raise for the trip.&nbsp;<br><br><i>Extra bonus:</i> When your commission totals $200, on the next payout, I will give you a free upgrade to Photowall Sponsor with all of it's benefits..<br><br><i>Extra bonus:</i> If your commission total exceeds $1200, you will get a free upgrade to whichever package is equal or lesser in value to your commisions, and I will still send you your commissions too! &nbsp;You could become a <b>Fleet Captain,</b> or above, just from the sponsors you bring to this campaign!<br><br>Commissions to be paid every two weeks on Paypal or Venmo, (when $50 or more commissions is owed) for sponsorships generated before the current two week period. I reserve the right to fairly modify the payout schedule, while we see what GoFundMe’s does with any sponsors who request a refund, or payments don’t go through, or anything like that.<br><br><i>Special bonus:</i> Join the funding team before October 20th, and generate $500 in sponsorships before October 20th, you get a free personal upgrade to Photo Wall Sponsor, which three beautiful framable prints of your choice from this trip.<br><br><i><b>And one last special: Lifetime 10% commission on the sponsors that you bring.  If sponsors you bring later make additional contributions, for example buying extra photos, or upgrade to higher levels like copilot or fleet captain, you get 10% commission on those upgrades too. &nbsp;Can you find a board member, or even a chairman of the trip? &nbsp;These levels include the bonus of bringing in their friends to enjoy the perks of their position. &nbsp;15% commission on board member or chairman sponsorship, and 10% commission on the extra purchases or sponsorship upgrades of the friends they include in the perks of their position.&nbsp;</b></i><br><br><br><br>Notes:<br>*Location - I am an FAA licensed sUAS Remote Pilot, and I respect the limits on where I can legally fly. More about that in the sponsor forum, in a private area for discussion for copilots, fleet captains and fleet executives. No federal parks like Yosemite are allowed, no flights within miles of the capital in Washington D.C., no flying over people at events, etc. If you desire a very specific location for your sponsorship, please contact me to discuss your requested location ahead of arrival, so I can make sure it is legal for me to fly there, and make sure the trip is planned around your needs. If you can be flexible in your higher level donation (Fleet Captain and above), I will keep in close contact with you during the trip to offer you locations as they come up to provide one that meets your needs..&nbsp;<br></p>\n                        <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-sm btn-secondary\" href=\"Secret_GoFundME_page12.html\" data-app-placeholder=\"Type Text\">MORE DETAILS</a></div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
+          "_cid": "scRHP8PpGl",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content01-2d"
         }
       ]
     }
