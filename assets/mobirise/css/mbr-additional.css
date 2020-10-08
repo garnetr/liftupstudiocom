@@ -9655,6 +9655,53 @@ a {
 .cid-scRHP8oPJe p {
   color: #ffffff;
 }
+.cid-scRWBUdvmQ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-scRWBUdvmQ img {
+  width: 100%;
+}
+.cid-scRWBUdvmQ .badge {
+  display: inline-block;
+  border-radius: 10rem;
+  padding: 8px 14px 6px 14px;
+  color: #848abd;
+  background-color: rgba(132, 138, 189, 0.15);
+  margin-bottom: 26px;
+}
+.cid-scRWBUdvmQ .badge.display-4 {
+  font-size: 11px;
+  line-height: 1.81;
+  letter-spacing: 0.5px;
+}
+.cid-scRWBUdvmQ .mbr-section-subtitle {
+  color: #999999;
+  font-weight: 600;
+  margin-bottom: 21px;
+}
+.cid-scRWBUdvmQ .contents {
+  margin-top: 36px;
+}
+.cid-scRWBUdvmQ .contents .content-text {
+  color: #606060;
+  font-weight: 300;
+}
+.cid-scRWBUdvmQ .mbr-section-btn {
+  margin-top: 8px;
+}
+.cid-scRWBUdvmQ .mbr-section-btn .btn {
+  padding: 18px 26px;
+}
+.cid-scRWBUdvmQ .mbr-section-btn .btn.display-4 {
+  font-size: 13px;
+  line-height: 1;
+}
+.cid-scRWBUdvmQ .mbr-section-btn .btn:hover {
+  box-shadow: 0 0 0 5px rgba(60, 113, 211, 0.2) !important;
+  -webkit-box-shadow: 0 0 0 5px rgba(60, 113, 211, 0.2) !important;
+}
 .cid-scRHP8PpGl {
   padding-top: 60px;
   padding-bottom: 60px;
